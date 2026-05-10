@@ -166,3 +166,4 @@ XAUUSD Trading Strategiya Ilovasi - Flutter bilan yaratilgan
 
 **Diqqat**: Bu ilova faqat ta'lim maqsadida yaratilgan. Real trading da foydalanishdan oldin demo hisobda sinab ko'ring. Trading xavfli va pul yo'qotishga olib kelishi mumkin.
 # xauusd
+# xauusd
